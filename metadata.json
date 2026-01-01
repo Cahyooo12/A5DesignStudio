@@ -1,8 +1,4 @@
 {
   "name": "A5 Web Studio",
-  "description": "Premium Web Development & Design Studio based in Jakarta. Building high-performance digital solutions.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
+  "description": "Premium Web Development & Design Studio based in Yogyakarta. Building high-performance digital solutions."
 }
